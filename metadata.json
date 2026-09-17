@@ -1,0 +1,8 @@
+{
+  "name": "Remix DreamScroll",
+  "description": "Smart auto-scroll sleep companion with live stream skip, sleep timer, smart lighting fade, haptic wake alarm, and encrypted sleep cycle tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DreamScroll</string>
+    <string name="accessibility_service_description">Enables automatic upward scrolling for short-form video feeds before bedtime and automatically skips disruptive live streams.</string>
+    <string name="tab_auto_scroll">Auto-Scroll</string>
+    <string name="tab_sleep_timer">Sleep Timer</string>
+    <string name="tab_alarm">Haptic Alarm</string>
+    <string name="tab_sleep_cycle">Sleep Health</string>
+    <string name="tab_offline">Offline Vault</string>
+    <string name="auto_scroll_enabled">Bedtime Auto-Scroll Active</string>
+    <string name="auto_scroll_disabled">Bedtime Auto-Scroll Paused</string>
+    <string name="skip_lives_title">Auto-Skip Live Streams</string>
+    <string name="skip_lives_desc">Instantly scrolls past live broadcasts to keep your night calm</string>
+    <string name="scroll_delay_title">Scroll Pacing Interval</string>
+    <string name="sleep_timer_title">Battery-Saving Sleep Timer</string>
+    <string name="haptic_alarm_title">Soft Haptic Wake Alarm</string>
+    <string name="smart_lighting_title">Smart Home Light Fade</string>
+    <string name="health_sync_title">Android Health Sync</string>
+    <string name="biometric_lock_title">Biometric Sleep Vault</string>
+    <string name="test_swipe_success">Upward gesture dispatched</string>
+    <string name="test_swipe_service_off">Enable Accessibility Service first</string>
+</resources>
